@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "X8m5TjrICiOZOyvSs1a75s5ZnUs3N0OcVfDkD9zdpg2WeDa42S27n0PUj8YMEyFhMV81P4jqCB1gyyEbJhdUcg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MSI\\Desktop\\Timer_PR14\\Timer_PR14\\Timer_PR14.iOS\\Timer_PR14.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MSI\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\MSI\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\MSI\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
